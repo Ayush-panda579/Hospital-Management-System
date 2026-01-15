@@ -72,10 +72,28 @@ Gender (Male/Female/Other): Female
 Phone: 9123456789
 
 ✅ Patient added successfully! ID: 1
-
+----------------------------------------------
 Enter your choice (1-8): 2
 
 --- All Patients ---
 ID | Name              | Age | Gender   | Phone
 -------------------------------------------------
 1  | Priya Sharma      | 28  | Female   | 9123456789
+Bash
+
+### Summary of changes made
+
+- Changed class name references from `HospitalManagementSystem` → `hms`
+- Fixed compile/run commands: `javac hms.java` and `java hms`
+- Removed incomplete lines (4. and 5.) from the "How to Run" section
+- Kept everything else consistent and clean
+
+Let me know if you also want:
+
+- the updated Java code itself with matching class name comments/documentation
+- file save/load feature (JSON or CSV)
+- colored output
+- appointment status change menu
+- anything else
+
+Good luck with your project!
